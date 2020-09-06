@@ -1,0 +1,7 @@
+C:\Users\lepri\Desktop\Practice\HomeTask\Flowers\bin\Debug\Flowers.exe.config
+C:\Users\lepri\Desktop\Practice\HomeTask\Flowers\bin\Debug\Flowers.exe
+C:\Users\lepri\Desktop\Practice\HomeTask\Flowers\bin\Debug\Flowers.pdb
+C:\Users\lepri\Desktop\Practice\HomeTask\Flowers\obj\Debug\Flowers.csprojAssemblyReference.cache
+C:\Users\lepri\Desktop\Practice\HomeTask\Flowers\obj\Debug\Flowers.csproj.CoreCompileInputs.cache
+C:\Users\lepri\Desktop\Practice\HomeTask\Flowers\obj\Debug\Flowers.exe
+C:\Users\lepri\Desktop\Practice\HomeTask\Flowers\obj\Debug\Flowers.pdb

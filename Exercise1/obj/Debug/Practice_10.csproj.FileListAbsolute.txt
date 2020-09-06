@@ -1,0 +1,7 @@
+C:\Users\lepri\Desktop\Practice\Practice_10\bin\Debug\Practice_10.exe.config
+C:\Users\lepri\Desktop\Practice\Practice_10\bin\Debug\Practice_10.exe
+C:\Users\lepri\Desktop\Practice\Practice_10\bin\Debug\Practice_10.pdb
+C:\Users\lepri\Desktop\Practice\Practice_10\obj\Debug\Practice_10.csprojAssemblyReference.cache
+C:\Users\lepri\Desktop\Practice\Practice_10\obj\Debug\Practice_10.csproj.CoreCompileInputs.cache
+C:\Users\lepri\Desktop\Practice\Practice_10\obj\Debug\Practice_10.exe
+C:\Users\lepri\Desktop\Practice\Practice_10\obj\Debug\Practice_10.pdb
